@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "My Tasks",
+  "name": "Todolist created with react typescript + tailwind",
   "icons": [
     {
       "src": "favicon.ico",
